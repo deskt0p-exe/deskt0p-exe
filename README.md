@@ -18,7 +18,6 @@
 
 - 📫 You can reach me by adding **spAce.#2178 on [Discord](https://discord.gg/9xQEg2z)**
 
-
 [![spAce.#2178](https://discord.c99.nl/widget/theme-3/309366588300328960.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
