@@ -16,14 +16,14 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/seenks1?tab=repositories)
 
-- 📫 You can reach me by adding **spAce.#2178 on [Discord](https://discord.gg/HWeThmwy2J)**
+- 📫 You can reach me by adding **spAce.#2178 on [Discord](https://discord.gg/9xQEg2z)**
 
 
 [![spAce.#2178](https://discord.c99.nl/widget/theme-3/309366588300328960.png)](https://discord.c99.nl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/9xQEg2z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[https://discord.gg/HWeThmwy2J]" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/9xQEg2z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[https://discord.gg/9xQEg2z]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
