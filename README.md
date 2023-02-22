@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/seenks1?tab=repositories)
 
-- 📫 You can reach me by adding **spAce.#2178 on [Discord](https://discord.gg/9xQEg2z)**
+- 📫 You can reach me by adding **deskt0p#0001 on [Discord](https://discord.gg/9xQEg2z)**
 
 [![spAce.#2178](https://discord.c99.nl/widget/theme-3/309366588300328960.png)](https://discord.c99.nl/)
 
