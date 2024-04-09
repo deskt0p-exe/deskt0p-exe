@@ -10,13 +10,13 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/seenks1" alt="Profile Forks"></a>
 </p>
 
-- 🔭 Latest project **EFFECT Whatsapp bot**
+- 🔭 Latest project **SHOPEE LIVE TOOLS**
 
 - 🌱 I’m currently learning **Python & NodeJS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/seenks1?tab=repositories)
 
-- 📫 You can reach me by adding **deskt0p#0001 on [Discord](https://discord.gg/9xQEg2z)**
+- 📫 You can reach me by adding **dev1ce. on [Discord](https://discord.gg/9xQEg2z)**
 
 [![spAce.#2178](https://discord.c99.nl/widget/theme-3/309366588300328960.png)](https://discord.c99.nl/)
 
