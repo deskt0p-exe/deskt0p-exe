@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/seenks1" alt="Profile Forks"></a>
 </p>
 
-- 🔭 Latest project **SHOPEE LIVE TOOLS**
+- 🔭 Latest project **?**
 
 - 🌱 I’m currently learning **Python & NodeJS**
 
